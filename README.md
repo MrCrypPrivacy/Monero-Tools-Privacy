@@ -9,9 +9,10 @@
 </div>
 
 ---
+<div align="center">
 
-🚧 **This project is in ALPHA stage. Expect bugs and unfinished features.  
-Many improvements and updates are coming! Contributions and feedback are welcome.** 🚧
+🚧 **This project is in ALPHA stage. Expect bugs and unfinished features. 🚧 
+🚧 Many improvements and updates are coming! Contributions and feedback are welcome.** 🚧
 
 ---
 
