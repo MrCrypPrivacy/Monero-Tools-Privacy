@@ -11,9 +11,9 @@
 ---
 <div align="center">
 
-🚧 **This project is in ALPHA stage. Expect bugs and unfinished features. 🚧 
+🚧 **This project is in ALPHA stage. Expect bugs and unfinished features.** 🚧 
 
-🚧 Many improvements and updates are coming! Contributions and feedback are welcome.** 🚧
+🚧 **Many improvements and updates are coming! Contributions and feedback are welcome.** 🚧
 
 ---
 
