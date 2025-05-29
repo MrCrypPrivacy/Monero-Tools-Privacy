@@ -8,6 +8,13 @@
 
 </div>
 
+---
+
+🚧 **This project is in ALPHA stage. Expect bugs and unfinished features.  
+Many improvements and updates are coming! Contributions and feedback are welcome.** 🚧
+
+---
+
 A curated menu for the best Monero tools: wallets, privacy resources, exchanges, communication, and more all in one CLI interface.
 
 <div align="center"> 
