@@ -3,6 +3,7 @@
 A curated menu with the best Monero tools for privacy, wallets, VPNs, and more.  
 **Created by [Mr Cryp](https://x.com/L0rd_t0ken)**
 
+![screenshot](Screenshot.png)
 ---
 
 ## Features
