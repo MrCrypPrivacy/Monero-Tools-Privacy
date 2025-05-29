@@ -14,26 +14,35 @@ A curated menu with the best Monero tools for privacy, wallets, VPNs, and more.
 - Dark/Light mode
 - Live XMR price (via CoinGecko)
 
-## Requirements
+## Installation & Usage
 
-- Python 3.8+
-- [`requests`](https://pypi.org/project/requests/) library
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/MrCrypPrivacy/Monero-Tools-Privacy.git
+    cd Monero-Tools-Privacy
+    ```
 
-## Usage
-
-1. Install Python 3.8+.
-2. Install dependencies:
+2. **Install dependencies**
     ```bash
     pip install requests
     ```
-3. Run the menu:
+
+3. **Run the tool**
     ```bash
     python monero_tools.py
     ```
-    or (Linux/macOS, after making it executable):
-    ```bash
-    ./monero_tools.py
-    ```
+    *(Or on Linux/macOS, if you made it executable: `./monero_tools.py`)*
+
+---
+
+### Requirements
+
+- Python 3.8 or higher
+- The `requests` library
+
+---
+
+**Enjoy and stay private!**
 
 ## Support
 
