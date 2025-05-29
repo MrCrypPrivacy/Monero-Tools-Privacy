@@ -1,12 +1,18 @@
 # <p align="center"> Monero Tools Menu 🛡️
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/github/license/MrCrypPrivacy/Monero-Tools-Privacy)
 ![Last Commit](https://img.shields.io/github/last-commit/MrCrypPrivacy/Monero-Tools-Privacy)
 
+</div>
+
 A curated menu for the best Monero tools: wallets, privacy resources, exchanges, communication, and more all in one CLI interface.
 
-**Created by [Mr Cryp](https://x.com/L0rd_t0ken)**
+<div align="center"> 
+
+ **Created by [𝕄𝕣ℂ𝕣𝕪𝕡 ㉿](https://x.com/L0rd_t0ken)**
 
 ---
 
@@ -29,6 +35,7 @@ A curated menu for the best Monero tools: wallets, privacy resources, exchanges,
 ---
 
 ## <p align="center"> 🛠️ Menu Categories & Tools
+<div align="center">
 
 | Category                  |    Monero XMR                                                                                                    |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -94,6 +101,22 @@ Pull requests and issues are welcome!
 ## <p align="center"> 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+## 💸 Support / Donate
+
+If you'd like to support this project, you can donate privately:
+
+**Monero (XMR):**  
+<code>87k6ViTfSFGApzyyqr8jsuELYeBQ37yvndCWJcHgHDUf97LUz36JUutBtJiBYNBBDJeBCPN8gf6jW9f3HgJKeMsbUx3VsB5</code>
+
+**Bitcoin Silent Payments (BTC):**  
+<code>sp1qqg2s548t58g5x32jdhl33rxm8zy5r9aw3r7vrqfvrgjjz2c88dz96qc8qdge727xkd8umlwfr88gutqtu4dslrtkza0p6j0u44hwsggl7p</code>
+
+</div>
 
 ---
 
