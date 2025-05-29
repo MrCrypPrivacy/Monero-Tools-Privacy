@@ -1,4 +1,4 @@
-# Monero Tools Menu 🛡️
+# <p align="center"> Monero Tools Menu 🛡️
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License](https://img.shields.io/github/license/MrCrypPrivacy/Monero-Tools-Privacy)
@@ -10,13 +10,13 @@ A curated menu for the best Monero tools: wallets, privacy resources, exchanges,
 
 ---
 
-## 📸 Screenshot
+## <p align="center"> 📸 Screenshot
 
 ![Screenshot](screenshots/Screenshot.png)
 
 ---
 
-## 🚀 Features
+## <p align="center"> 🚀 Features
 
 - Quick access to top Monero wallets, exchanges, guides, and privacy tools
 - Subcategories for browsers, secure messaging, email, passwords, VPN, 2FA, and cloud storage
@@ -28,24 +28,20 @@ A curated menu for the best Monero tools: wallets, privacy resources, exchanges,
 
 ---
 
-## 🛠️ Menu Categories & Tools
+## <p align="center"> 🛠️ Menu Categories & Tools
 
-| Category                  |                                                                                                        |
+| Category                  |    Monero XMR                                                                                                    |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Official Website          |                                                                                                           |
-| Docs & Guides             |                                         |
-| Wallet                    |                                                                                                              |
-| Purchase XMR              |                                                                                   |
-| Swap                      |                                                                                               |
-| Spend Monero              |                                                                                               |
-| XMR Chat                  |                                                                                                                   |
-| Best Accounts to Follow   |     |
+| Official Website          |        Docs & Guides                                                                                                   |
+| Wallet             |            Purchase XMR                             |
+| Swap                    |         Spend Monero                                                                                                     |
+|XMR Chat              |        Best Accounts to Follow                                                                           |
 | Miner tools               | _Section under construction_                                                                                              |
 | Privacy tools             | **Browsers & Web**  <br> **Messaging** <br> **Email** <br> **Passwords** <br> **VPN** <br> **2FA**  <br> **Cloud**  |
 
 ---
 
-## 🧑‍💻 Installation & Usage
+## <p align="center"> 🧑‍💻 Installation & Usage
 
 ### 1. Clone the repository
 
@@ -77,14 +73,14 @@ python monero_tools.py
 
 ---
 
-## 📦 Requirements
+## <p align="center"> 📦 Requirements
 
 - Python 3.8 or higher
 - pip
 
 ---
 
-## 🤝 Contributing
+## <p align="center"> 🤝 Contributing
 
 Want to add your favorite tool or suggest an improvement?
 Pull requests and issues are welcome!
@@ -95,13 +91,13 @@ Pull requests and issues are welcome!
 
 ---
 
-## 📜 License
+## <p align="center"> 📜 License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙌 Credits
+## <p align="center"> 🙌 Credits
 
 Made with ❤️ by [Mr Cryp](https://x.com/L0rd_t0ken).
 
