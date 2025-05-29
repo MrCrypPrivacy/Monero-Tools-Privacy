@@ -1,5 +1,30 @@
-settings.txt
-favorites.txt
+# Python virtual environment
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
 .DS_Store
+Thumbs.db
+
+# Test and logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg
+*.egg-info/
+dist/
+build/
+.eggs/
