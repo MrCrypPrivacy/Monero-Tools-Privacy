@@ -21,7 +21,7 @@ A curated menu for the best Monero tools: wallets, privacy resources, exchanges,
 
 <div align="center"> 
 
- **Created by [𝕄𝕣ℂ𝕣𝕪𝕡 ㉿](https://x.com/L0rd_t0ken)**
+ **Created by [𝕄𝕣ℂ𝕣𝕪𝕡 ㉿](https://x.com/MrCrypPrivacy)**
 
 ---
 
