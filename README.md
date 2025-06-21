@@ -134,6 +134,6 @@ If you'd like to support this project, you can donate privately:
 
 <div align="center"> 
 
- **Made with ❤️ by [𝕄𝕣ℂ𝕣𝕪𝕡 ㉿](https://x.com/L0rd_t0ken)**
+ **Made with ❤️ by [𝕄𝕣ℂ𝕣𝕪𝕡 ㉿](https://x.com/MrCrypPrivacy)**
 
 ---
